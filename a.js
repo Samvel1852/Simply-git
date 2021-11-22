@@ -1,2 +1,1 @@
-const arr = [];
 const obj = {};
